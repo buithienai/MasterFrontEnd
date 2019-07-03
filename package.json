@@ -1,0 +1,40 @@
+{
+	"name": "MasterFrontEnd",
+	"description": "Master Gulp FrontEnd",
+	"authors": [
+		"TommyAi <buithienai@gmail.com>"
+	],
+	"version": "1.0.0",
+	"homepage": "",
+	"scripts": {
+		"start": "gulp"
+	},
+	"dependencies": {
+		"@fancyapps/fancybox": "^3.3.5",
+		"babel-preset-es2015": "^6.24.1",
+		"bootstrap": "^4.1.1",
+		"bootstrap4-datetimepicker": "^5.2.3",
+		"browser-sync": "^2.26.5",
+		"datatables.net": "^1.10.19",
+		"datatables.net-dt": "^1.10.19",
+		"font-awesome": "^4.7.0",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^3.1.1",
+		"gulp-babel": "^6.1.3",
+		"gulp-concat": "^2.6.1",
+		"gulp-cssnano": "^2.1.3",
+		"gulp-file-include": "^1.1.0",
+		"gulp-jshint": "^2.1.0",
+		"gulp-rename": "^1.2.3",
+		"gulp-sass": "^3.2.1",
+		"gulp-uglify": "^2.1.2",
+		"gulp-wait": "0.0.2",
+		"jquery": "1.12.4",
+		"jquery.nicescroll": "^3.7.6",
+		"jshint": "^2.9.5",
+		"node-sass": "^4.9.0",
+		"pc-bootstrap4-datetimepicker": "^4.17.50",
+		"popper.js": "^1.14.3",
+		"slick-carousel": "^1.8.1"
+	}
+}
